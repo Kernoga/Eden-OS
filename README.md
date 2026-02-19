@@ -48,5 +48,6 @@ Behavior Plane   → Actor Runtime
 Structural Plane → SGK + WSL
 This separation allows Eden OS to scale multi-agent environments without granting agents control over shared world state.
 🔹 Public Scope Notice
-The public repository exposes only the architectural surface of Eden OS.
-Implementation details, execution workflows, and integration guidance are shared through collaboration or licensing discussions.
+Detailed implementation guides — including Runtime and Simulation Engineer
+Implementation Cookbooks and the Integration Contract — are available for
+further work through technical collaboration or licensing discussions.
