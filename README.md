@@ -42,7 +42,7 @@ The runtime remains independent from gameplay, narrative logic, or agent orchest
 🔹 Architectural Relationship
 Actor Runtime and the Structural Governance Layer are not parallel systems.
 They represent two execution planes:
-Копировать код
+
 
 Behavior Plane   → Actor Runtime
 Structural Plane → SGK + WSL
